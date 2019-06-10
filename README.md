@@ -1,5 +1,5 @@
 # LargeFiles
-Read large files on python
+Read large files in python
 
 
 В данном репозитории находится небольшой скрипт, который предполагает юзерфредли надстройку над mmap.
